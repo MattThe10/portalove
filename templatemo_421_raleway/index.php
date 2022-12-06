@@ -242,7 +242,7 @@ http://www.templatemo.com/preview/templatemo_421_raleway
                             <div id="map_canvas" class="map-canvas"></div>
                         </div>
 					</div>
-                    <form action="messages.php" method="post">
+                    <form action="create.php" method="post">
 					<div class="col-md-6 col-sm-12">
 						<div class="contact-form animated fadeInUp">
 							<h4>Send us a Message</h4>
