@@ -1,0 +1,19 @@
+
+
+
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #32353a;
+}
+
+#formTitle, label, .post-header, .post-par {
+    color: #b7bcbe;
+}
+
+
+
+
+
